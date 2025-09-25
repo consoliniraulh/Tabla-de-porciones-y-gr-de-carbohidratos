@@ -84,7 +84,7 @@ carb_data = {
     },
     "Panes": {
         "Pan de molde blanco tipo lactal integral": {"porcion": "1 rebanada de 25 g aprox", "carbs": 15},
-        "Pan de molde blanco tipo lactal integral": {"porcion": "1 unidad (50 g)", "carbs": 30},
+        "Pan de hamburguesa": {"porcion": "1 unidad (50 g)", "carbs": 30},
         "Pan árabe o pita": {"porcion": "1 unidad grande (50 g)", "carbs": 30},
         "Pan francés en rodajas": {"porcion": "2 unidades", "carbs": 15},
         "Sandwich de miga": {"porcion": "1 triángulo", "carbs": 15},
@@ -92,7 +92,7 @@ carb_data = {
         "Pancto de salvado": {"porcion": "1 unidad de 25 g aprox", "carbs": 15},
         "Pan de pancho": {"porcion": "1 unidad", "carbs": 30},
         "Pan de fajitas": {"porcion": "1 unidad", "carbs": 20},
-        "Pan de francones": {"porcion": "2 rodajas finas", "carbs": 15},
+        "Pan Frances": {"porcion": "2 rodajas finas", "carbs": 15},
         "Pan tipo pebete": {"porcion": "1 unidad de 50 g aprox", "carbs": 30}
     },
     "Otros Cereales": {

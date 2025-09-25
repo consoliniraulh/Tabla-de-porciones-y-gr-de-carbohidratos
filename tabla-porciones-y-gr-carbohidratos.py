@@ -98,7 +98,8 @@ carb_data = {
     "Otros Cereales": {
         "Barra de cereal": {"porcion": "1 unidad", "carbs": 15},
         "Copitos de desayuno azucarados o de chocolate": {"porcion": "1/4 de taza", "carbs": 15},
-        "Copos de maíz, trigo, arroz, simples": {"porcion": "1/4 de taza", "carbs": 15},
+        "Copos de maíz, trigo, arroz, simples": {"porcion": "1/2 de taza", "carbs": 15},
+        "Granola": {"porcion": "1/4 de taza", "carbs": 15},
         "Pororó con azúcar/tutúca": {"porcion": "2 tazas", "carbs": 15},
         "Pochoclo o pororó sin azúcar/tutúca": {"porcion": "3 tazas", "carbs": 15},
         "Cuadraditos de avena": {"porcion": "1/4 de taza", "carbs": 15}

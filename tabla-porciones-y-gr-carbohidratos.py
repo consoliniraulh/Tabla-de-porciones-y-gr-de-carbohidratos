@@ -62,7 +62,7 @@ carb_data = {
         "Almíbar de maíz o harina de mandioca": {"porcion": "1 cucharada sopera (aprox 20 g)", "carbs": 15},
         "Arroz blanco o integral cocido": {"porcion": "1 taza", "carbs": 45},
         "Arroz blanco o integral cocido": {"porcion": "1 cucharada de servir 60 g aprox", "carbs": 15},
-        "Arroz blanco o integral crudo": {"porcion": "1 pocillo tipo café 60 g aprox", "carbs": 15},
+        "Arroz blanco o integral crudo": {"porcion": "1 pocillo tipo café 60 g aprox", "carbs": 45},
         "Arroz blanco o integral crudo": {"porcion": "1 cucharada sopera 20 g aprox", "carbs": 15},
         "Canelones": {"porcion": "1 unidad grande", "carbs": 15},
         "Harina": {"porcion": "2 cucharadas soperas", "carbs": 15},
@@ -75,6 +75,12 @@ carb_data = {
         "Raviolis": {"porcion": "½ plato ó 20 unidades", "carbs": 30},
         "Capelletini de jamón y queso": {"porcion": "3/4 taza", "carbs": 40},
         "Láminas para lasaña": {"porcion": "3 láminas", "carbs": 30}
+    },
+    "Legumbres": {
+        "Lentejas, porotos, garbanzos, arvejas, cocidos": {"porcion": "½ taza 250cc", "carbs": 30},
+        "Soja cocida": {"porcion": "1 taza 250cc", "carbs": 15},
+        "Milanesa de Soja": {"porcion": "1/2 Grande o 1 chica", "carbs": 15},
+        "Habas cocidas": {"porcion": "1/2 taza 250cc", "carbs": 30}
     },
     "Panes": {
         "Pan de molde blanco tipo lactal integral": {"porcion": "1 rebanada de 25 g aprox", "carbs": 15},

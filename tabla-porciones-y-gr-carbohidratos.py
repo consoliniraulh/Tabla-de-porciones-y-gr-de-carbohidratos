@@ -9,9 +9,9 @@ carb_data = {
         "Choclo entero": {"porcion": "½ unidad", "carbs": 15},
         "Mandioca": {"porcion": "½ unidad chica o 100 g", "carbs": 30},
         "Batata": {"porcion": "½ unidad chica o 100 g", "carbs": 30},
-        "Purée de batata": {"porcion": "½ taza", "carbs": 30},
-        "Purée de papa": {"porcion": "½ taza", "carbs": 15},
-        "Purée de papas instantáneo": {"porcion": "2 cucharadas soperas", "carbs": 15},
+        "Puré de batata": {"porcion": "½ taza", "carbs": 30},
+        "Puré de papa": {"porcion": "½ taza", "carbs": 15},
+        "Puré de papas instantáneo": {"porcion": "2 cucharadas soperas", "carbs": 15},
         "Calabaza": {"porcion": "1 taza (cocida) ó 2 rodajas gruesas", "carbs": 15},
         "Zapallo": {"porcion": "1 taza (cocida) ó 2 rodajas gruesas", "carbs": 15},
         "Palta": {"porcion": "1 unidad mediana", "carbs": 15},
@@ -52,7 +52,7 @@ carb_data = {
         "Frutas secas": {"porcion": "10-15 unidades (30 g)", "carbs": 15}
     },
     "Frutas en Conserva o Enlatadas": {
-        "Purée de manzana": {"porcion": "½ taza de té", "carbs": 15},
+        "Puré de manzana": {"porcion": "½ taza de té", "carbs": 15},
         "Ananá en lata, dietético": {"porcion": "2 rodajas", "carbs": 15},
         "Cóctel de frutas, dietético": {"porcion": "1 compotera", "carbs": 15},
         "Duraznos en lata, dietéticos": {"porcion": "2 mitades", "carbs": 15}
@@ -77,7 +77,7 @@ carb_data = {
         "Láminas para lasaña": {"porcion": "3 láminas", "carbs": 30}
     },
     "Legumbres": {
-        "Lentejas, porotos, garbanzos, arvejas, cocidos": {"porcion": "½ taza 250cc", "carbs": 30},
+        "Lentejas porotos garbanzos arvejas cocidos": {"porcion": "1/2 taza 250cc", "carbs": 30},
         "Soja cocida": {"porcion": "1 taza 250cc", "carbs": 15},
         "Milanesa de Soja": {"porcion": "1/2 Grande o 1 chica", "carbs": 15},
         "Habas cocidas": {"porcion": "1/2 taza 250cc", "carbs": 30}
